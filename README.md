@@ -22,13 +22,14 @@ echo 8.8.8.8 Korc >> /etc/hosts       # 修改解析
 ###### 安装
 > wget https://github.com/0x076/VPS_vps__attack-frame/releases/download/jb/vps__attackframe__0.2.sh >/dev/null 2>&1
 > chmod +x vps__attackframe__0.2.sh
-
-![15](https://user-images.githubusercontent.com/106065628/173065233-4d70e858-620c-459d-83ba-42d7ab0079c3.png
+>![15](https://user-images.githubusercontent.com/106065628/173067665-ecb58ac1-98c1-4857-ba6f-591a21ae2719.png)
 
 
 ###### 使用
 > sed -i -e 's/\r$//' vps__attackframe__0.2.sh
 > ./vps__attackframe__0.2.sh
+![25](https://user-images.githubusercontent.com/106065628/173067700-561d47ea-67f6-4078-965f-361a3c0ca002.png)
+
 
 ###   后期计划
 
