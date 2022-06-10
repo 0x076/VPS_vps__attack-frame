@@ -6,6 +6,8 @@ https://github.com/Albert4417/VpsEnvInstall/blob/master/VPS_Env_install.sh
 ###   修改说明
 优化了部分代码逻辑---速度有点BUG
 
+安装Python3.8 + Pip3.8时回卡一会米没找到解决办法一下
+
 （之前学的shell忘得差不多了）----欢迎各位师傅指正优化代码
 
 新增加了python、tmux、docker、proxychains、proxychains4
