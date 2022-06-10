@@ -1,9 +1,12 @@
 # VPS_vps__attack-frame
+# VPS_vps__attack-frame
 
 ###   原项目地址
 https://github.com/Albert4417/VpsEnvInstall/blob/master/VPS_Env_install.sh
-修改说明
+
+###   修改说明
 优化了部分代码逻辑---速度有点BUG
+
 （之前学的shell忘得差不多了）----欢迎各位师傅指正优化代码
 
 新增加了python、tmux、docker、proxychains、proxychains4
@@ -21,15 +24,16 @@ echo 8.8.8.8 Korc >> /etc/hosts       # 修改解析
 
 ###### 安装
 > wget https://github.com/0x076/VPS_vps__attack-frame/releases/download/jb/vps__attackframe__0.2.sh >/dev/null 2>&1
+
 > chmod +x vps__attackframe__0.2.sh
->![15](https://user-images.githubusercontent.com/106065628/173067665-ecb58ac1-98c1-4857-ba6f-591a21ae2719.png)
+![15](https://user-images.githubusercontent.com/106065628/173067953-5efaf4e8-8d84-461b-a1b8-35542a1d62d9.png)
 
 
 ###### 使用
 > sed -i -e 's/\r$//' vps__attackframe__0.2.sh
-> ./vps__attackframe__0.2.sh
-![25](https://user-images.githubusercontent.com/106065628/173067700-561d47ea-67f6-4078-965f-361a3c0ca002.png)
 
+> ./vps__attackframe__0.2.sh
+![25](https://user-images.githubusercontent.com/106065628/173067967-4ba72412-155e-4fbf-8800-a7d07ef42880.png)
 
 ###   后期计划
 
