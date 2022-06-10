@@ -34,6 +34,8 @@ echo 8.8.8.8 Korc >> /etc/hosts       # 修改解析
 > ./vps__attackframe__0.2.sh
 ![25](https://user-images.githubusercontent.com/106065628/173067967-4ba72412-155e-4fbf-8800-a7d07ef42880.png)
 
+![35](https://user-images.githubusercontent.com/106065628/173079760-ff42ab19-7c4c-43dd-8c2f-d1d5de5d488e.PNG)
+
 ###   后期计划
 
 增加更多工具、docker服务、VPS小鸡加固
