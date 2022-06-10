@@ -15,9 +15,13 @@ https://github.com/Albert4417/VpsEnvInstall/blob/master/VPS_Env_install.sh
 
 ###  使用说明  
 先去VPS上去执行一些初始操作 ( 如下以 Ubuntu 20.04 LTS 64bit为例 )
+
 echo "Korc" > /etc/hostname           # 修改机器名 
+
 echo 8.8.8.8 Korc >> /etc/hosts       # 修改解析
+
  init 6                                # 最后,重启系统使之生效
+ 
 完成以上操作可执行脚本（后期会加固小鸡--会增加一些方案）
 
 
