@@ -18,31 +18,31 @@ echo 8.8.8.8 Korc >> /etc/hosts       # 修改解析
  init 6                                # 最后,重启系统使之生效
 完成以上操作可执行脚本（后期会加固小鸡--会增加一些方案）
 
+
 ###### 安装
-wget https://github.com/0x076/VPS_vps__attack-frame/releases/download/jb/vps__attackframe__0.2.sh >/dev/null 2>&1
-chmod +x vps__attackframe__0.2.sh
+> wget https://github.com/0x076/VPS_vps__attack-frame/releases/download/jb/vps__attackframe__0.2.sh >/dev/null 2>&1
+> chmod +x vps__attackframe__0.2.sh
+
 ![15](https://user-images.githubusercontent.com/106065628/173065233-4d70e858-620c-459d-83ba-42d7ab0079c3.png
 
 
-######使用
-sed -i -e 's/\r$//' vps__attackframe__0.2.sh
-./vps__attackframe__0.2.sh 
-![25](https://user-images.githubusercontent.com/106065628/173065265-295ee397-f28a-4504-9232-a34912b2f82d.png)
-
+###### 使用
+> sed -i -e 's/\r$//' vps__attackframe__0.2.sh
+> ./vps__attackframe__0.2.sh
 
 ###   后期计划
 
 增加更多工具、docker服务、VPS小鸡加固
 增加工具（太多了--就不列了）----欢迎各位师傅投稿工具
 
-● Dirbuster
-● wFuzz
-● dirsearch
-● URLBrute
-● wpscan
-● aem-hacker
-● joomscan
-● 403bypasser 
-● bypass-403
-● HawkScan
-● 水泽_0x727
+* Dirbuster
+* wFuzz
+* dirsearch
+* URLBrute
+* wpscan
+* aem-hacker
+* joomscan
+* 403bypasser 
+* bypass-403
+* HawkScan
+* 水泽_0x727
