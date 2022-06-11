@@ -52,6 +52,8 @@ echo 8.8.8.8 Korc >> /etc/hosts       # 修改解析
 
 ![35](https://user-images.githubusercontent.com/106065628/173079760-ff42ab19-7c4c-43dd-8c2f-d1d5de5d488e.PNG)
 
+![扫描工具](https://user-images.githubusercontent.com/106065628/173175272-4c84710c-1c69-420c-9580-24e7eb22838b.PNG)
+
 ###   后期计划
 
 增加更多工具、docker服务、VPS小鸡加固
