@@ -1,5 +1,11 @@
 # VPS_vps__attack-frame
 
+
+###  bug太多 有时间就修复
+
+
+
+
 ###   原项目地址
 https://github.com/Albert4417/VpsEnvInstall/blob/master/VPS_Env_install.sh
 
@@ -63,6 +69,4 @@ echo 8.8.8.8 Korc >> /etc/hosts       # 修改解析
 * HawkScan
 * 水泽_0x727
 
-
-![微信图片_20220610215547](https://user-images.githubusercontent.com/106065628/173081480-88a4a6bb-17ea-4561-b485-e45d382831be.png)
 
